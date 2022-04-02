@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Heavy is the head that wears the crown
 Use the left arrow to go back!
